@@ -20,5 +20,5 @@ Return the number of teams you can form given the conditions.
 */
 
 var howManyTeams = function(input) {
-   
+   // change
 };
